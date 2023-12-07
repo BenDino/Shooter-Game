@@ -3,6 +3,6 @@ In the game, we will be defend earth from the aliens. Asteriods will be hurdling
 
 
 ## Controls
-Left - left arrow key
-Right - right arrow key
-Shooting - spacebar
+Move To The Left - Left arrow key
+Move To The Right - Right arrow key
+Shooting The Lazers - Spacebar
